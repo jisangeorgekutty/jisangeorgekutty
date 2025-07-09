@@ -8,7 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack web developer currently pursuing my B.Tech in Computer Science & Engineering at KMCT College of Engineering (KTU). I love creating dynamic web applications with modern tech stacks and constantly seek to learn and grow.
+I’m a passionate full-stack web developer pursuing my B.Tech in Computer Science & Engineering at KMCT College of Engineering, Kerala Technological University (2021–2025).
+
+With a strong foundation in modern web technologies, I enjoy building scalable web applications, intuitive user interfaces, and efficient backend systems. My expertise spans across **React.js**, **Node.js**, **MongoDB**, **Next.js**, and **Tailwind CSS** — all powered by a mindset of continuous learning and innovation.
 
 ---
 
@@ -66,7 +68,15 @@ AI-based chatbot for tech queries with real-time user interaction.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jisangeorgekutty&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jisangeorgekutty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jisangeorgekutty&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisangeorgekutty&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
