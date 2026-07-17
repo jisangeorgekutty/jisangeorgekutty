@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jisan George
 
-🚀 Full-Stack Developer | 💻 JavaScript Enthusiast | 🌐 MERN Stack Developer  
+🚀 Full-Stack Developer | 💻 JavaScript Enthusiast | ⚙️ ASP.NET Core Developer |🌐 MERN Stack Developer  
 📍 Kerala, India  
 📫 [jisangeorge123@gmail.com](mailto:jisangeorge123@gmail.com)  
 
